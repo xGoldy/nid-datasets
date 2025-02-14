@@ -1,6 +1,6 @@
 # List of Excluded Datasets
 
-This document presents datasets excluded from the main survey. Exclusion primarily happens for two reasons: a) data being out of scope and b) data unavailability. The following sections present these datasets and provide links to their respective papers and data (if exist).
+This document presents datasets excluded from the main survey. The list contains datasets commonly present in other intrusion detection data surveys and those found during our Systematic Literature Review (SLR) process but filtered out during the quality assurance process. The exclusion primarily happened for two reasons: a) data being out of scope and b) data unavailability. The following sections present these datasets and provide links to their respective papers and data (if exist).
 
 As these datasets are out of scope, we collect significantly less information about them and leave detailed analyses for interested readers. Detailed descriptions of individual table fields are provided in our paper. However, for a quick reference:
 
