@@ -6,31 +6,31 @@ This folder contains Jupyter Notebooks for analyzing datasets and extracting inf
 
 This table contains the name of the dataset (1st column) and its associated Jupyter Notebook filename (2nd column). If an associated notebook for a given dataset does not exist, the value `-` is provided. The notebooks are sorted by their data collection year and then alphabetically - same as in the survey paper.
 
-_Work-in-progress: We are currently polishing/commenting available notebooks and will pushing them in this folder between 2025-02-17 and 2025-02-21._
+_Work-in-progress: We are currently polishing/commenting available notebooks and will be pushing them in this folder between 2025-02-17 and 2025-02-21._
 
 | #   | **Dataset**                    | **Notebook filename**            |
 | --- | ------------------------------ | -------------------------------- |
 | 1   | DARPA 1998                     | - |
-| 2   | GureKDDcup                     | - |
-| 3   | KDD'99                         | - |
-| 4   | NSL-KDD                        | - |
+| 2   | GureKDDcup                     | `1998-gurekddcup.ipynb` |
+| 3   | KDD'99                         | `1998-kdd99.ipynb` |
+| 4   | NSL-KDD                        | `1998-nslkdd.ipynb` |
 | 5   | DARPA 1999                     | - |
 | 6   | LLDOS                          | - |
 | 7   | MAWILab                        | - |
 | 8   | CAIDA DDoS Attack 2007         | - |
 | 9   | Twente                         | - |
-| 10  | ASNM-CDX                       | - |
+| 10  | ASNM-CDX                       | `2009--2018-asnm_all.ipynb` |
 | 11  | CDX                            | - |
 | 12  | ISOT Botnet                    | - |
 | 13  | CTU-13                         | - |
 | 14  | HogZilla                       | - |
-| 15  | ISCX-IDS-2012                  | - |
+| 15  | ISCX-IDS-2012                  | will be added |
 | 16  | Booters                        | - |
 | 17  | Botnet                         | - |
 | 18  | SSHCure                        | - |
-| 19  | ASNM-TUN                       | - |
+| 19  | ASNM-TUN                       | `2009--2018-asnm_all.ipynb` |
 | 20  | AWID2                          | - |
-| 21  | Kyoto 2006+                    | - |
+| 21  | Kyoto 2006+                    | `2006--2015-kyoto2006.ipynb` |
 | 22  | UNSW-NB15                      | - |
 | 23  | DDoS 2016                      | - |
 | 24  | Kent 2016                      | - |
