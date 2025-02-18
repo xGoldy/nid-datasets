@@ -4,10 +4,10 @@
 import pd
 
 # Are there gaps in the data (was the capture interrupted?)
-def measure_real_capture_dur(data: pd.Series, gap_max_secs: int = 600) -> float:
+def measure_real_capture_dur(data: pd.Series, gap_max_secs: int = 6048) -> float:
     """Computes total timespan of the capture. Expects iterable containing timestamps objects sorted in a descending manner"""
-    total_dur = 0
-    current_dur = 0
+    total_dur = pd.Timedelta(seconds=0)
+    current_dur = pd.Timedelta(seconds=0)
     cont_durations = []
     last_tstamp = data.iloc[0]
     contiguous = True
@@ -16,7 +16,7 @@ def measure_real_capture_dur(data: pd.Series, gap_max_secs: int = 600) -> float:
     for cur_tstamp in data:
         dur_gap = last_tstamp - cur_tstamp
 
-        if dur_gap <= gap_max_secs:
+        if dur_gap <= pd.Timedelta(seconds=gap_max_secs):
             total_dur += dur_gap
             current_dur += dur_gap
         else:
@@ -28,8 +28,6 @@ def measure_real_capture_dur(data: pd.Series, gap_max_secs: int = 600) -> float:
 
         last_tstamp = cur_tstamp
 
-    cont_durations.sort(key=int, reverse=True)
-    cont_durations = [pd.Timedelta(seconds=secs) for secs in cont_durations]
+    cont_durations.sort(reverse=True)
 
-    return pd.Timedelta(seconds=total_dur), contiguous, cont_durations
-
+    return total_dur, contiguous, cont_durations

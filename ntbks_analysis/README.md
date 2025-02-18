@@ -22,20 +22,20 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 10  | ASNM-CDX                       | `2009--2018-asnm_all.ipynb` |
 | 11  | CDX                            | - |
 | 12  | ISOT Botnet                    | - |
-| 13  | CTU-13                         | - |
+| 13  | ISCX-IDS-2012                  | `2010-iscx_ids_2012.ipynb` |
 | 14  | HogZilla                       | - |
-| 15  | ISCX-IDS-2012                  | will be added |
+| 15  | CTU-13                         | - |
 | 16  | Booters                        | - |
 | 17  | Botnet                         | - |
 | 18  | SSHCure                        | - |
 | 19  | ASNM-TUN                       | `2009--2018-asnm_all.ipynb` |
 | 20  | AWID2                          | - |
 | 21  | Kyoto 2006+                    | `2006--2015-kyoto2006.ipynb` |
-| 22  | UNSW-NB15                      | - |
-| 23  | DDoS 2016                      | - |
-| 24  | Kent 2016                      | - |
+| 22  | UNSW-NB15                      | `2015-unsw_nb15.ipynb` |
+| 23  | DDoS 2016                      | `2016-ddos2016.ipynb` |
+| 24  | Kent 2016                      | Sample analysis will be added |
 | 25  | NDSec-1                        | - |
-| 26  | NGIDS-DS                       | - |
+| 26  | NGIDS-DS                       | `2016-ngids-ds.ipynb` |
 | 27  | UGR'16                         | - |
 | 28  | Unified Host and Network       | - |
 | 29  | 2017-SUEE8                     | - |
