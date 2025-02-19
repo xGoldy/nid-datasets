@@ -37,20 +37,20 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 25  | NDSec-1                        | - |
 | 26  | NGIDS-DS                       | `2016-ngids-ds.ipynb` |
 | 27  | UGR'16                         | `2016-ugr16.ipynb` |
-| 28  | Unified Host and Network       | Analysis notebook will be added |
+| 28  | Unified Host and Network       | `2016-unified_host_and_network.ipynb` |
 | 29  | 2017-SUEE8                     | - |
 | 30  | CIC-IDS2017                    | `2017-cic_ids2017.ipynb` |
 | 33  | CIC-IDS2017 Improved           | `2017-cic_ids2017_impr.ipynb` |
 | 31  | CIDDS-001                      | `2017-cidds001.ipynb` |
 | 32  | CIDDS-002                      | `2017-cidds002.ipynb` |
 | 34  | ISOT HTTP Botnet               | - |
-| 35  | IoT host-based ID dataset      | - |
-| 36  | LYCOS-IDS2017                  | - |
+| 35  | IoT host-based ID dataset      | `2016-unified_host_and_network.ipynb` |
+| 36  | LYCOS-IDS2017                  | `2017-lycos_ids2017.ipynb` |
 | 37  | TrabID                         | - |
 | 38  | ISOT-CID                       | - |
-| 39  | Kitsune Network Attack Dataset | - |
+| 39  | Kitsune Network Attack Dataset | `2018-kitsune.ipynb` |
 | 40  | NetML                          | - |
-| 41  | NF-UQ-NIDS/ NF-UQ-NIDS-v2      | - |
+| 41  | NF-UQ-NIDS/NF-UQ-NIDS-v2       | - |
 | 42  | ASNM-NPBO                      | - |
 | 43  | Bot-IoT                        | - |
 | 44  | CSE-CIC-IDS2018                | - |
@@ -73,7 +73,7 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 61  | OPC UA                         | - |
 | 62  | SDN Dataset                    | - |
 | 63  | SR-BH 2020                     | - |
-| 64  | VOIP Enterprise -- Attack      | - |
+| 64  | VOIP Enterprise - Attack       | - |
 | 65  | UKM-IDS20                      | - |
 | 66  | AWID3                          | - |
 | 67  | CCD-INID-V1                    | - |
