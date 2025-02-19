@@ -1,10 +1,10 @@
 # Measures duration and continuity of the dataset in pandas format. To be used as a part in other code.
 # Author: Patrik Goldschmidt (igoldschmidt@fit.vut.cz)
 
-import pd
+import pandas as pd
 
 # Are there gaps in the data (was the capture interrupted?)
-def measure_real_capture_dur(data: pd.Series, gap_max_secs: int = 6048) -> float:
+def measure_real_capture_dur(data: pd.Series, gap_max_secs: int = 300) -> float:
     """Computes total timespan of the capture. Expects iterable containing timestamps objects sorted in a descending manner"""
     total_dur = pd.Timedelta(seconds=0)
     current_dur = pd.Timedelta(seconds=0)
@@ -21,7 +21,7 @@ def measure_real_capture_dur(data: pd.Series, gap_max_secs: int = 6048) -> float
             current_dur += dur_gap
         else:
             cont_durations.append(current_dur)
-            current_dur = 0
+            current_dur = pd.Timedelta(seconds=0)
 
             if contiguous:
                 contiguous = False
