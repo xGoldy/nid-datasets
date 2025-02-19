@@ -33,16 +33,16 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 21  | Kyoto 2006+                    | `2006--2015-kyoto2006.ipynb` |
 | 22  | UNSW-NB15                      | `2015-unsw_nb15.ipynb` |
 | 23  | DDoS 2016                      | `2016-ddos2016.ipynb` |
-| 24  | Kent 2016                      | Sample analysis will be added |
+| 24  | Kent 2016                      | `2016-kent2016.ipynb` |
 | 25  | NDSec-1                        | - |
 | 26  | NGIDS-DS                       | `2016-ngids-ds.ipynb` |
-| 27  | UGR'16                         | - |
-| 28  | Unified Host and Network       | - |
+| 27  | UGR'16                         | `2016-ugr16.ipynb` |
+| 28  | Unified Host and Network       | Analysis notebook will be added |
 | 29  | 2017-SUEE8                     | - |
-| 30  | CIC-IDS2017                    | - |
-| 31  | CIDDS-001                      | - |
-| 32  | CIDDS-002                      | - |
-| 33  | Imp. CIC-IDS2017               | - |
+| 30  | CIC-IDS2017                    | `2017-cic_ids2017.ipynb` |
+| 33  | CIC-IDS2017 Improved           | `2017-cic_ids2017_impr.ipynb` |
+| 31  | CIDDS-001                      | `2017-cidds001.ipynb` |
+| 32  | CIDDS-002                      | `2017-cidds002.ipynb` |
 | 34  | ISOT HTTP Botnet               | - |
 | 35  | IoT host-based ID dataset      | - |
 | 36  | LYCOS-IDS2017                  | - |
@@ -54,7 +54,7 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 42  | ASNM-NPBO                      | - |
 | 43  | Bot-IoT                        | - |
 | 44  | CSE-CIC-IDS2018                | - |
-| 45  | Imp. CSE-CIC -IDS2018          | - |
+| 45  | CSE-CIC-IDS2018 Improved       | - |
 | 46  | N-BaIoT                        | - |
 | 47  | IoT-23                         | - |
 | 48  | CIC-DDoS2019                   | - |
