@@ -30,7 +30,7 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 18  | SSHCure                        | - |
 | 19  | ASNM-TUN                       | `2009--2018-asnm_all.ipynb` |
 | 20  | AWID2                          | - |
-| 21  | Kyoto 2006+                    | `2006--2015-kyoto2006.ipynb` |
+| 21  | Kyoto 2006+                    | `2015-kyoto2006.ipynb` |
 | 22  | UNSW-NB15                      | `2015-unsw_nb15.ipynb` |
 | 23  | DDoS 2016                      | `2016-ddos2016.ipynb` |
 | 24  | Kent 2016                      | `2016-kent2016.ipynb` |
@@ -44,19 +44,19 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 31  | CIDDS-001                      | `2017-cidds001.ipynb` |
 | 32  | CIDDS-002                      | `2017-cidds002.ipynb` |
 | 34  | ISOT HTTP Botnet               | - |
-| 35  | IoT host-based ID dataset      | `2016-unified_host_and_network.ipynb` |
+| 35  | IoT host-based ID dataset      | `2017-iot_hostbased_id.ipynb` |
 | 36  | LYCOS-IDS2017                  | `2017-lycos_ids2017.ipynb` |
 | 37  | TrabID                         | - |
 | 38  | ISOT-CID                       | - |
 | 39  | Kitsune Network Attack Dataset | `2018-kitsune.ipynb` |
-| 40  | NetML                          | - |
-| 41  | NF-UQ-NIDS/NF-UQ-NIDS-v2       | - |
-| 42  | ASNM-NPBO                      | - |
-| 43  | Bot-IoT                        | - |
-| 44  | CSE-CIC-IDS2018                | - |
-| 45  | CSE-CIC-IDS2018 Improved       | - |
+| 40  | NetML                          | `2018_neml.ipynb` |
+| 41  | NF-UQ-NIDS/NF-UQ-NIDS-v2       | `2018-nf_uq_nids.ipynb` |
+| 42  | ASNM-NPBO                      | `2009--2018-asnm_all.ipynb` |
+| 43  | Bot-IoT                        | `2018-bot_iot.ipynb` |
+| 44  | CSE-CIC-IDS2018                | `2018-cse_cic_ids2018.ipynb` |
+| 45  | CSE-CIC-IDS2018 Improved       | `2018-cse_cic_ids2018_impr.ipynb` |
 | 46  | N-BaIoT                        | - |
-| 47  | IoT-23                         | - |
+| 47  | IoT-23                         | next to be added |
 | 48  | CIC-DDoS2019                   | - |
 | 49  | CUPID                          | - |
 | 50  | GTCS                           | - |
