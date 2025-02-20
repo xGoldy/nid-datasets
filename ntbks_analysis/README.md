@@ -56,15 +56,15 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 44  | CSE-CIC-IDS2018                | `2018-cse_cic_ids2018.ipynb` |
 | 45  | CSE-CIC-IDS2018 Improved       | `2018-cse_cic_ids2018_impr.ipynb` |
 | 46  | N-BaIoT                        | - |
-| 47  | IoT-23                         | next to be added |
-| 48  | CIC-DDoS2019                   | - |
-| 49  | CUPID                          | - |
-| 50  | GTCS                           | - |
+| 47  | IoT-23                         | `2019-iot_23.ipynb` |
+| 48  | CIC-DDoS2019                   | `2019-cic_ddos2019.ipynb` |
+| 49  | CUPID                          | `2019-cupid.ipynb` |
+| 50  | GTCS                           | `2019-gtcs.ipynb` |
 | 51  | IoT network intrusion          | - |
-| 52  | IoTID20                        | - |
-| 53  | TON_IoT                        | - |
-| 54  | MedBIoT                        | - |
-| 55  | WUSTL-IIoT-2021                | - |
+| 52  | IoTID20                        | `2019-iotid20.ipynb` |
+| 53  | TON_IoT                        | will be added |
+| 54  | MedBIoT                        | `2019-medbiot.ipynb` |
+| 55  | WUSTL-IIoT-2021                | we be continued downwards from here |
 | 56  | LITNET-2020                    | - |
 | 57  | X-IIoTID                       | - |
 | 58  | BOUN DDoS                      | - |
