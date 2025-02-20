@@ -64,11 +64,11 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 52  | IoTID20                        | `2019-iotid20.ipynb` |
 | 53  | TON_IoT                        | will be added |
 | 54  | MedBIoT                        | `2019-medbiot.ipynb` |
-| 55  | WUSTL-IIoT-2021                | we be continued downwards from here |
-| 56  | LITNET-2020                    | - |
-| 57  | X-IIoTID                       | - |
-| 58  | BOUN DDoS                      | - |
-| 59  | DAPT 2020                      | - |
+| 55  | WUSTL-IIoT-2021                | `2019_wustl_iiot_2021.ipynb` |
+| 56  | LITNET-2020                    | `2020_litnet_2020.ipynb` |
+| 57  | X-IIoTID                       | `2020-x_iiotid.ipynb` |
+| 58  | BOUN DDoS                      | `2020-boun_ddos.ipynb` |
+| 59  | DAPT 2020                      | next notebook to process |
 | 60  | InSDN                          | - |
 | 61  | OPC UA                         | - |
 | 62  | SDN Dataset                    | - |
