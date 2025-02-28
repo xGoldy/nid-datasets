@@ -6,7 +6,7 @@ This folder contains Jupyter Notebooks for analyzing datasets and extracting inf
 
 This table contains the name of the dataset (1st column) and its associated Jupyter Notebook filename (2nd column). If an associated notebook for a given dataset does not exist, the value `-` is provided. The notebooks are sorted by their data collection year and then alphabetically - same as in the survey paper.
 
-_Work-in-progress: We are currently polishing/commenting available notebooks and will be pushing them in this folder between 2025-02-17 and 2025-02-21._
+_Work-in-progress: The rest (20 notebooks since 70th position) will be added in the 1st week of March._
 
 | #   | **Dataset**                    | **Notebook filename**            |
 | --- | ------------------------------ | -------------------------------- |
@@ -79,7 +79,7 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 67  | AWID3                          | `2021-awid3.ipynb` |
 | 68  | CyberFORCE Scenario            | `2021-cyberforce_scenario.ipynb` |
 | 69  | Edge-IIoTset                   | `2021-edge_iiotset.ipynb` |
-| 70  | HIKARI-2021                    | - |
+| 70  | HIKARI-2021                    | next to include |
 | 71  | I-Sec                          | - |
 | 72  | PWNJUTSU                       | - |
 | 73  | Unraveled                      | - |
