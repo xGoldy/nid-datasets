@@ -69,16 +69,16 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 57  | InSDN                          | `2020-insdn.ipynb` |
 | 58  | X-IIoTID                       | `2020-x_iiotid.ipynb` |
 | 59  | BOUN DDoS                      | `2020-boun_ddos.ipynb` |
-| 60  | DAPT 2020                      | `2020-dapt2020.ipynb` |
-| 61  | OPC UA                         | `2020-opc_ua.ipynb` |
-| 62  | SDN Dataset                    | `2020-sdn_dataset.ipynb` |
-| 63  | SR-BH 2020                     | `2020-sr_bh2020.ipynb` |
-| 64  | UKM-IDS20                      | `2020-ukm_ids20.ipynb` |
-| 65  | VOIP Enterprise - Attack       | `2020-voip_enterprise.ipynb` |
-| 66  | AWID3                          | - |
-| 67  | CCD-INID-V1                    | - |
-| 68  | CyberFORCE Scenario            | - |
-| 69  | Edge-IIoTset                   | - |
+| 60  | CCD-INID-V1                    | `2020-ccd_inid_v1` |
+| 61  | DAPT 2020                      | `2020-dapt2020.ipynb` |
+| 62  | OPC UA                         | `2020-opc_ua.ipynb` |
+| 63  | SDN Dataset                    | `2020-sdn_dataset.ipynb` |
+| 64  | SR-BH 2020                     | `2020-sr_bh2020.ipynb` |
+| 65  | UKM-IDS20                      | `2020-ukm_ids20.ipynb` |
+| 66  | VOIP Enterprise - Attack       | `2020-voip_enterprise.ipynb` |
+| 67  | AWID3                          | `2021-awid3.ipynb` |
+| 68  | CyberFORCE Scenario            | `2021-cyberforce_scenario.ipynb` |
+| 69  | Edge-IIoTset                   | `2021-edge_iiotset.ipynb` |
 | 70  | HIKARI-2021                    | - |
 | 71  | I-Sec                          | - |
 | 72  | PWNJUTSU                       | - |
