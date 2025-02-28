@@ -70,11 +70,11 @@ _Work-in-progress: We are currently polishing/commenting available notebooks and
 | 58  | X-IIoTID                       | `2020-x_iiotid.ipynb` |
 | 59  | BOUN DDoS                      | `2020-boun_ddos.ipynb` |
 | 60  | DAPT 2020                      | `2020-dapt2020.ipynb` |
-| 61  | OPC UA                         | next to be processed |
-| 62  | SDN Dataset                    | - |
-| 63  | SR-BH 2020                     | - |
-| 64  | VOIP Enterprise - Attack       | - |
-| 65  | UKM-IDS20                      | - |
+| 61  | OPC UA                         | `2020-opc_ua.ipynb` |
+| 62  | SDN Dataset                    | `2020-sdn_dataset.ipynb` |
+| 63  | SR-BH 2020                     | `2020-sr_bh2020.ipynb` |
+| 64  | UKM-IDS20                      | `2020-ukm_ids20.ipynb` |
+| 65  | VOIP Enterprise - Attack       | `2020-voip_enterprise.ipynb` |
 | 66  | AWID3                          | - |
 | 67  | CCD-INID-V1                    | - |
 | 68  | CyberFORCE Scenario            | - |
