@@ -79,12 +79,12 @@ _Work-in-progress: The rest (20 notebooks since 70th position) will be added in 
 | 67  | AWID3                          | `2021-awid3.ipynb` |
 | 68  | CyberFORCE Scenario            | `2021-cyberforce_scenario.ipynb` |
 | 69  | Edge-IIoTset                   | `2021-edge_iiotset.ipynb` |
-| 70  | HIKARI-2021                    | next to include |
-| 71  | I-Sec                          | - |
-| 72  | PWNJUTSU                       | - |
-| 73  | Unraveled                      | - |
-| 74  | USB-IDS-1                      | - |
-| 75  | CIC IoT dataset 2022           | - |
+| 70  | I-Sec                          | `2021-i_sec.ipynb` |
+| 71  | PWNJUTSU                       | `2021-pwnjutsu.ipynb` |
+| 72  | Unraveled                      | `2021-unraveled.ipynb` |
+| 73  | USB-IDS-1                      | `2021-usb_ids1.ipynb` |
+| 74  | CIC IoT dataset 2022           | `2022-cic_iot22.ipynb` |
+| 75  | HIKARI-2021                    | `2022-hikari_2021.ipynb` |
 | 76  | LUFlow                         | - |
 | 77  | VHS-22                         | - |
 | 78  | UWF-Zeek Data22                | - |
