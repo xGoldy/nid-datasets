@@ -85,9 +85,9 @@ _Work-in-progress: The rest (20 notebooks since 70th position) will be added in 
 | 73  | USB-IDS-1                      | `2021-usb_ids1.ipynb` |
 | 74  | CIC IoT dataset 2022           | `2022-cic_iot22.ipynb` |
 | 75  | HIKARI-2021                    | `2022-hikari_2021.ipynb` |
-| 76  | LUFlow                         | - |
-| 77  | VHS-22                         | - |
-| 78  | UWF-Zeek Data22                | - |
+| 76  | LUFlow                         | `2022-luflow.ipynb` |
+| 77  | UWF-Zeek Data22                | `2022-uwf_zeekdata22.ipynb` |
+| 78  | VHS-22                         | `2022-vhs_22.ipynb` |
 | 79  | AIT Log Dataset 2.0            | - |
 | 80  | ICS-Flow                       | - |
 | 81  | OD-IDS2022                     | - |
