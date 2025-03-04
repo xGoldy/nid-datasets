@@ -6,7 +6,7 @@ This folder contains Jupyter Notebooks for analyzing datasets and extracting inf
 
 This table contains the name of the dataset (1st column) and its associated Jupyter Notebook filename (2nd column). If an associated notebook for a given dataset does not exist, the value `-` is provided. The notebooks are sorted by their data collection year and then alphabetically - same as in the survey paper.
 
-_Work-in-progress: The rest (20 notebooks since 70th position) will be added in the 1st week of March._
+_Work-in-progress: The last notebooks (#75 and above) will be added during the first week of March._
 
 | #   | **Dataset**                    | **Notebook filename**            |
 | --- | ------------------------------ | -------------------------------- |
@@ -88,12 +88,12 @@ _Work-in-progress: The rest (20 notebooks since 70th position) will be added in 
 | 76  | LUFlow                         | `2022-luflow.ipynb` |
 | 77  | UWF-Zeek Data22                | `2022-uwf_zeekdata22.ipynb` |
 | 78  | VHS-22                         | `2022-vhs_22.ipynb` |
-| 79  | AIT Log Dataset 2.0            | - |
-| 80  | ICS-Flow                       | - |
-| 81  | OD-IDS2022                     | - |
-| 82  | Simargl2022                    | - |
-| 83  | UNR-IDD                        | - |
-| 84  | CICIoT2023                     | - |
+| 79  | AIT Log Dataset 2.0            | `2022-ait_lds_v2.ipynb` |
+| 80  | ICS-Flow                       | `2022-ics_flow.ipynb` |
+| 81  | OD-IDS2022                     | `2022-od_ids2022.ipynb` |
+| 82  | Simargl2022                    | `2022-simargl2022.ipynb` |
+| 83  | UNR-IDD                        | `2022-unr_idd.ipynb` |
+| 84  | CICIoT2023                     | next one to process |
 | 85  | TII-SSRC-23                    | - |
 | 86  | Appraise H2020                 | - |
 | 87  | FLNET2023                      | - |
