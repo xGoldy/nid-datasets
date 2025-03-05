@@ -41,7 +41,7 @@ In this paper, we aim to address this knowledge gap by performing a systematic l
 │   └── fixpkts.sh          # Fix folder with broken PCAP files
 ├── trends_analysis/        # XLSX (Excel) files with analysis of NIDS trends
 │   ├── popularity.xlsx     # Data popularity on SOTA NIDS papers
-│   └── trends.xlsx         # Datasets trends analysis
+│   └── trends.xlsx         # List of datasets and their trends analysis
 ├── excluded_datasets.md    # List of excluded datasets from the survey
 ├── LICENSE                 # License file
 └── README.md               # This file
