@@ -1,6 +1,6 @@
 # List of Excluded Datasets
 
-This document presents datasets excluded from the main survey. The list contains datasets commonly present in other intrusion detection data surveys and those found during our Systematic Literature Review (SLR) process but filtered out during the quality assurance process. The exclusion primarily happened for two reasons: a) data being out of scope and b) data unavailability. The following sections present these datasets and provide links to their respective papers and data (if exist).
+This document presents datasets excluded from the main survey. The list contains datasets commonly present in other intrusion detection data surveys and those found during our Systematic Literature Review (SLR) process but filtered out during the quality assurance stage. The exclusion primarily happened for three reasons: a) data are out of scope, b) data are produced as a research side-effect, and c) data are unavailable. The following sections present these datasets and provide links to their respective papers and data (if exist).
 
 As these datasets are out of scope, we collect significantly less information about them and leave detailed analyses for interested readers. Detailed descriptions of individual table fields are provided in our paper. However, for a quick reference:
 
@@ -34,7 +34,6 @@ As these datasets are out of scope, we collect significantly less information ab
 | WSN-DS | 2015 | [Paper](https://onlinelibrary.wiley.com/doi/10.1155/2016/4731953) | [Data](https://www.kaggle.com/datasets/bassamkasasbeh1/wsnds) | other | yes | Wireless sensor networks IDS. |
 | Modbus Dataset | 2016 | [Paper](https://www.usenix.org/conference/cset16/workshop-program/presentation/lemay) | [Data](https://github.com/antoine-lemay/Modbus_dataset) | pcap, other | yes | ICS IDS via Modbus. |
 | Kharon | 2016 | [Paper](https://www.usenix.org/conference/laser2016/program/presentation/kiss) | [Data](https://cidre.gitlabpages.inria.fr/malware/malware-website/) | other | yes | Android malware detection. |
-| UNK22 | 1998, 2015, 2015 | [Paper](https://ieeexplore.ieee.org/abstract/document/9787094) | [Data](https://github.com/ucadatalab/ff4ml/tree/master/data/unk22) | flows | yes | Heavily preprocessed via Feature as a Counter (FaaC) technique. |
 | BATADAL | 2013, 2016, 2017 | [Paper](https://ascelibrary.org/doi/abs/10.1061/(ASCE)WR.1943-5452.0000969) | [Data](http://www.batadal.net/data.html) | other | yes | ICS anomaly detection. |
 | UGRansomware | 2016, 2018 | [Paper](https://www.mdpi.com/2078-2489/12/10/405) | [Data](https://www.researchgate.net/publication/342200905_An_Ensemble_Learning_Framework_for_Anomaly_Detection_in_the_Existing_Network_Intrusion_Detection_Landscape) | other | yes | Merge of UGR'16 and Ransomware data. |
 | All Eyes on You | 2018 | [Paper](https://ieeexplore.ieee.org/abstract/document/8584985) | [Data](https://www.kaggle.com/datasets/francoisxa/ds2ostraffictraces) | logs | yes | IDS for IoT microservices via host logs. |
@@ -61,6 +60,19 @@ As these datasets are out of scope, we collect significantly less information ab
 | can-train-and-test | 2023 | [Paper](https://ieeexplore.ieee.org/document/10333756) | [Data](https://bitbucket.org/brooke-lampe/can-train-and-test/src/master/) | other | yes | CAN environment and specific features. |
 | CICEV2023 DDoS | 2023 | [Paper](https://www.computer.org/csdl/proceedings-article/pst/2023/10320202/1SjejFg2aKA) | [Data](https://www.unb.ca/cic/datasets/cicev2023.html) | other | yes | Electric vehicles DDoS. |
 | WCN Anomaly Dataset | 2023 | [Paper](https://www.sciencedirect.com/science/article/pii/S2352340923004602) | [Data](https://doi.org/10.7910/DVN/NKTFZM) | other | yes | Wireless Community Networks anomalies. |
+
+## Research Side-Effect Datasets
+
+Although datasets produced as a side-effect (typically for research validation) are oftentimes valuable, we could not aim to include all of them, as they typically do not follow any predictable patterns (e.g., title name or keywords), hampering their searchability. In addition, as researchers were not focused on producing the data, their documentation is usually inappropriate. For this reason, we did not focus on analyzing these datasets in detail and instead only listed them here for potential interested readers. Note that the `Kitsune` dataset was included in the main survey due to its popularity despite being considered a research side-effect.
+
+| **Dataset**    | **Year** | **Paper** | **Data** | **Format** | **Labels** | **Description / Commentary** |
+| ------------------- | -------- | --------- | -------- | ---------- | ---------- | -------------- |
+| UNK22 | 1998, 2015, 2016 | [Paper](https://ieeexplore.ieee.org/abstract/document/9787094) | [Data](https://github.com/ucadatalab/ff4ml/tree/master/data/unk22) | flows | yes | Heavily preprocessed via Feature as a Counter (FaaC) technique. |
+| Kitsune | 2017, 2018 | [Paper](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf) | [Data](https://archive.ics.uci.edu/dataset/516/kitsune+network+attack+dataset) | packet (bin, txt) | yes | Popular IoT dataset with custom packet features. |
+| Ishibashi et al. 2022 | 2018 | [Paper](https://ieeexplore.ieee.org/abstract/document/9777676) | [Data](https://github.com/suuri-kyudai/Generating-Dataset-for-NIDS) | packet | yes | Focused on replaying and labeling the data based on NIDS alerts. |
+| MUD Profiles Dataset | 2018 | [Paper](https://dl.acm.org/doi/abs/10.1145/3314148.3314352) | [Data](https://iotanalytics.unsw.edu.au/index.html#our-data) | logs | no | Profiles for Manufacturer Usage Description (MUD) framework. |
+| EniDrift | 2020 | [Paper](https://dl.acm.org/doi/abs/10.1145/3564625.3567992) | [Data](https://github.com/X1anWang/ENIDrift) | flows | indirect | Data for anomaly detection under concept drift. |
+
 
 ## Unavailable Datasets
 
