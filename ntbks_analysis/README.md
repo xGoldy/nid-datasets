@@ -6,8 +6,6 @@ This folder contains Jupyter Notebooks for analyzing datasets and extracting inf
 
 This table contains the name of the dataset (1st column) and its associated Jupyter Notebook filename (2nd column). If an associated notebook for a given dataset does not exist, the value `-` is provided. The notebooks are sorted by their data collection year and then alphabetically - same as in the survey paper.
 
-_Work-in-progress: The last notebooks (#75 and above) will be added during the first week of March._
-
 | #   | **Dataset**                    | **Notebook filename**            |
 | --- | ------------------------------ | -------------------------------- |
 | 1   | DARPA 1998                     | - |
@@ -93,12 +91,12 @@ _Work-in-progress: The last notebooks (#75 and above) will be added during the f
 | 81  | OD-IDS2022                     | `2022-od_ids2022.ipynb` |
 | 82  | Simargl2022                    | `2022-simargl2022.ipynb` |
 | 83  | UNR-IDD                        | `2022-unr_idd.ipynb` |
-| 84  | CICIoT2023                     | next one to process |
-| 85  | TII-SSRC-23                    | - |
-| 86  | Appraise H2020                 | - |
-| 87  | FLNET2023                      | - |
-| 88  | ROSIDS23                       | - |
-| 89  | Westermo                       | - |
+| 84  | CICIoT2023                     | `2023-cic_iot2023.ipynb` |
+| 85  | TII-SSRC-23                    | `2023-tii_ssrc_23.ipynb` |
+| 86  | Appraise H2020                 | `2023-appraise_h2020.ipynb` |
+| 87  | FLNET2023                      | `2023-flnet2023.ipynb` |
+| 88  | ROSIDS23                       | `2023-rosids23.ipynb` |
+| 89  | Westermo                       | `2023-westermo.ipynb` |
 
 ## Notebooks Limitations
 
