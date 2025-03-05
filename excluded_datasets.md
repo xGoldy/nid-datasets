@@ -73,7 +73,6 @@ Although datasets produced as a side-effect (typically for research validation) 
 | MUD Profiles Dataset | 2018 | [Paper](https://dl.acm.org/doi/abs/10.1145/3314148.3314352) | [Data](https://iotanalytics.unsw.edu.au/index.html#our-data) | logs | no | Profiles for Manufacturer Usage Description (MUD) framework. |
 | EniDrift | 2020 | [Paper](https://dl.acm.org/doi/abs/10.1145/3564625.3567992) | [Data](https://github.com/X1anWang/ENIDrift) | flows | indirect | Data for anomaly detection under concept drift. |
 
-
 ## Unavailable Datasets
 
 | **Dataset**    | **Year** | **Paper** | **Data** | **Format** | **Labels** | **Description / Commentary** |
