@@ -105,3 +105,12 @@ Initially, these notebooks for data analysis were not purposed to be publicly sh
 * **No standard structure is followed**: Initially, our notebooks were mainly goal-driven - focusing on extracting key dataset details (most notably duration, number of classes, and data size) rather than analyzing the data. Later as we decided to share the data, additional data analysis steps were introduced. However, as each dataset is unique, different analysis steps were required. These facts lead to structural discrepancies among the notebooks.
 
 * **Notebooks are not present for every dataset**: Since the analysis was initially not intended for sharing, some datasets, especially those with only raw PCAP data, were analyzed only via the command line and scripts without saved output. As a result, not all datasets have an associated Jupyter notebook.
+
+## Not Included Datasets
+
+In addition to notebooks corresponding to datasets discussed in the survey, we also provide analysis of other datasets excluded from the paper due to being topically out-of-scope or published after the surveying range (e.g., 2025 and later). These notebooks are placed in the `ntbks_analysis/other` folder. Note that these notebooks might not follow the standardized data analysis structure as presented for the upper datasets.
+
+| #   | **Dataset**                    | **Notebook filename**            |
+| --- | ------------------------------ | -------------------------------- |
+| 1   | UNK22                          | `2016-unk22.ipynb` |
+| 2   | Socbed Example Dataset         | `2021-socbed.ipynb` |

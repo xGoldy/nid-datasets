@@ -21,24 +21,25 @@ In this paper, we aim to address this knowledge gap by performing a systematic l
 
 ```bash
 .
-├── ntbks_analysis          # Notebooks with datasets analyses
-│   ├── README.md
+├── ntbks_analysis/         # Notebooks with datasets analyses
+│   ├── other/              # Notebooks of datasets not included in the survey
+│   ├── README.md           # Links notebooks to their corresponding datasets
 │   └── ...
-├── ntbks_support           # Notebooks with supportive code
+├── ntbks_support/          # Notebooks with supportive code
 │   ├── plot_popul.ipynb    # Dataset popularity plot
 │   └── plot_publ.ipynb     # Dataset publications by-year plot
-├── scripts_analysis        # Scripts for data analyses
+├── scripts_analysis/       # Scripts for data analyses
 │   ├── coundur.sh          # Measure the overall duration of PCAP data
 │   ├── countflows.sh       # Count the number of entries (flows)
 │   ├── countpkts.sh        # Count the number of packets in PCAP data
 │   ├── countsize.sh        # Measure the size of PCAP files in bytes
 │   ├── measure_dur_pcap.py # Measure duration and continuity of pcap dataset
 │   └── measure_dur_pd.py   # Measure duration and continuity of pandas dataset
-├── scripts_support         # Scripts for data manipulation
+├── scripts_support/        # Scripts for data manipulation
 │   ├── cloudstor_down.py   # Download data from the Cloudstor service
 │   ├── extract_gure.py     # Prepare GureKDDCup dataset for processing
 │   └── fixpkts.sh          # Fix folder with broken PCAP files
-├── trends_analysis         # XLSX (Excel) files with analysis of NIDS trends
+├── trends_analysis/        # XLSX (Excel) files with analysis of NIDS trends
 │   ├── popularity.xlsx     # Data popularity on SOTA NIDS papers
 │   └── trends.xlsx         # Datasets trends analysis
 ├── excluded_datasets.md    # List of excluded datasets from the survey
