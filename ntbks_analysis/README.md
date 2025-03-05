@@ -9,94 +9,94 @@ This table contains the name of the dataset (1st column) and its associated Jupy
 | #   | **Dataset**                    | **Notebook filename**            |
 | --- | ------------------------------ | -------------------------------- |
 | 1   | DARPA 1998                     | - |
-| 2   | GureKDDcup                     | `1998-gurekddcup.ipynb` |
-| 3   | KDD'99                         | `1998-kdd99.ipynb` |
-| 4   | NSL-KDD                        | `1998-nslkdd.ipynb` |
+| 2   | GureKDDcup                     | [`1998-gurekddcup.ipynb`](1998-gurekddcup.ipynb) |
+| 3   | KDD'99                         | [`1998-kdd99.ipynb`](1998-kdd99.ipynb) |
+| 4   | NSL-KDD                        | [`1998-nslkdd.ipynb`](1998-nslkdd.ipynb) |
 | 5   | DARPA 1999                     | - |
 | 6   | LLDOS                          | - |
 | 7   | MAWILab                        | - |
 | 8   | CAIDA DDoS Attack 2007         | - |
 | 9   | Twente                         | - |
-| 10  | ASNM-CDX                       | `2009--2018-asnm_all.ipynb` |
+| 10  | ASNM-CDX                       | [`2009-2018-asnm_all.ipynb`](2009-2018-asnm_all.ipynb) |
 | 11  | CDX                            | - |
 | 12  | ISOT Botnet                    | - |
-| 13  | ISCX-IDS-2012                  | `2010-iscx_ids_2012.ipynb` |
+| 13  | ISCX-IDS-2012                  | [`2010-iscx_ids_2012.ipynb`](2010-iscx_ids_2012.ipynb) |
 | 14  | HogZilla                       | - |
 | 15  | CTU-13                         | - |
 | 16  | Booters                        | - |
 | 17  | Botnet                         | - |
 | 18  | SSHCure                        | - |
-| 19  | ASNM-TUN                       | `2009--2018-asnm_all.ipynb` |
+| 19  | ASNM-TUN                       | [`2009-2018-asnm_all.ipynb`](2009-2018-asnm_all.ipynb) |
 | 20  | AWID2                          | - |
-| 21  | Kyoto 2006+                    | `2015-kyoto2006.ipynb` |
-| 22  | UNSW-NB15                      | `2015-unsw_nb15.ipynb` |
-| 23  | DDoS 2016                      | `2016-ddos2016.ipynb` |
-| 24  | Kent 2016                      | `2016-kent2016.ipynb` |
+| 21  | Kyoto 2006+                    | [`2015-kyoto2006.ipynb`](2015-kyoto2006.ipynb) |
+| 22  | UNSW-NB15                      | [`2015-unsw_nb15.ipynb`](2015-unsw_nb15.ipynb) |
+| 23  | DDoS 2016                      | [`2016-ddos2016.ipynb`](2016-ddos2016.ipynb) |
+| 24  | Kent 2016                      | [`2016-kent2016.ipynb`](2016-kent2016.ipynb) |
 | 25  | NDSec-1                        | - |
-| 26  | NGIDS-DS                       | `2016-ngids-ds.ipynb` |
-| 27  | UGR'16                         | `2016-ugr16.ipynb` |
-| 28  | Unified Host and Network       | `2016-unified_host_and_network.ipynb` |
+| 26  | NGIDS-DS                       | [`2016-ngids-ds.ipynb`](2016-ngids-ds.ipynb) |
+| 27  | UGR'16                         | [`2016-ugr16.ipynb`](2016-ugr16.ipynb) |
+| 28  | Unified Host and Network       | [`2016-unified_host_and_network.ipynb`](2016-unified_host_and_network.ipynb) |
 | 29  | 2017-SUEE8                     | - |
-| 30  | CIC-IDS2017                    | `2017-cic_ids2017.ipynb` |
-| 33  | CIC-IDS2017 Improved           | `2017-cic_ids2017_impr.ipynb` |
-| 31  | CIDDS-001                      | `2017-cidds001.ipynb` |
-| 32  | CIDDS-002                      | `2017-cidds002.ipynb` |
+| 30  | CIC-IDS2017                    | [`2017-cic_ids2017.ipynb`](2017-cic_ids2017.ipynb) |
+| 33  | CIC-IDS2017 Improved           | [`2017-cic_ids2017_impr.ipynb`](2017-cic_ids2017_impr.ipynb) |
+| 31  | CIDDS-001                      | [`2017-cidds001.ipynb`](2017-cidds001.ipynb) |
+| 32  | CIDDS-002                      | [`2017-cidds002.ipynb`](2017-cidds002.ipynb) |
 | 34  | ISOT HTTP Botnet               | - |
-| 35  | IoT host-based ID dataset      | `2017-iot_hostbased_id.ipynb` |
-| 36  | LYCOS-IDS2017                  | `2017-lycos_ids2017.ipynb` |
+| 35  | IoT host-based ID dataset      | [`2017-iot_hostbased_id.ipynb`](2017-iot_hostbased_id.ipynb) |
+| 36  | LYCOS-IDS2017                  | [`2017-lycos_ids2017.ipynb`](2017-lycos_ids2017.ipynb) |
 | 37  | TrabID                         | - |
 | 38  | ISOT-CID                       | - |
-| 39  | Kitsune Network Attack Dataset | `2018-kitsune.ipynb` |
-| 40  | NetML                          | `2018_neml.ipynb` |
-| 41  | NF-UQ-NIDS/NF-UQ-NIDS-v2       | `2018-nf_uq_nids.ipynb` |
-| 42  | ASNM-NPBO                      | `2009--2018-asnm_all.ipynb` |
-| 43  | Bot-IoT                        | `2018-bot_iot.ipynb` |
-| 44  | CSE-CIC-IDS2018                | `2018-cse_cic_ids2018.ipynb` |
-| 45  | CSE-CIC-IDS2018 Improved       | `2018-cse_cic_ids2018_impr.ipynb` |
+| 39  | Kitsune Network Attack Dataset | [`2018-kitsune.ipynb`](2018-kitsune.ipynb) |
+| 40  | NetML                          | [`2018-netml.ipynb`](2018-netml.ipynb) |
+| 41  | NF-UQ-NIDS/NF-UQ-NIDS-v2       | [`2018-nf_uq_nids.ipynb`](2018-nf_uq_nids.ipynb) |
+| 42  | ASNM-NPBO                      | [`2009-2018-asnm_all.ipynb`](2009-2018-asnm_all.ipynb) |
+| 43  | Bot-IoT                        | [`2018-bot_iot.ipynb`](2018-bot_iot.ipynb) |
+| 44  | CSE-CIC-IDS2018                | [`2018-cse_cic_ids2018.ipynb`](2018-cse_cic_ids2018.ipynb) |
+| 45  | CSE-CIC-IDS2018 Improved       | [`2018-cse_cic_ids2018_impr.ipynb`](2018-cse_cic_ids2018_impr.ipynb) |
 | 46  | N-BaIoT                        | - |
-| 47  | IoT-23                         | `2019-iot_23.ipynb` |
-| 48  | CIC-DDoS2019                   | `2019-cic_ddos2019.ipynb` |
-| 49  | CUPID                          | `2019-cupid.ipynb` |
-| 50  | GTCS                           | `2019-gtcs.ipynb` |
+| 47  | IoT-23                         | [`2019-iot_23.ipynb`](2019-iot_23.ipynb) |
+| 48  | CIC-DDoS2019                   | [`2019-cic_ddos2019.ipynb`](2019-cic_ddos2019.ipynb) |
+| 49  | CUPID                          | [`2019-cupid.ipynb`](2019-cupid.ipynb) |
+| 50  | GTCS                           | [`2019-gtcs.ipynb`](2019-gtcs.ipynb) |
 | 51  | IoT network intrusion          | - |
-| 52  | IoTID20                        | `2019-iotid20.ipynb` |
-| 53  | TON_IoT                        | `2019-ton_iot.ipynb` |
-| 54  | MedBIoT                        | `2019-medbiot.ipynb` |
-| 55  | WUSTL-IIoT-2021                | `2019_wustl_iiot_2021.ipynb` |
-| 56  | LITNET-2020                    | `2020_litnet_2020.ipynb` |
-| 57  | InSDN                          | `2020-insdn.ipynb` |
-| 58  | X-IIoTID                       | `2020-x_iiotid.ipynb` |
-| 59  | BOUN DDoS                      | `2020-boun_ddos.ipynb` |
-| 60  | CCD-INID-V1                    | `2020-ccd_inid_v1` |
-| 61  | DAPT 2020                      | `2020-dapt2020.ipynb` |
-| 62  | OPC UA                         | `2020-opc_ua.ipynb` |
-| 63  | SDN Dataset                    | `2020-sdn_dataset.ipynb` |
-| 64  | SR-BH 2020                     | `2020-sr_bh2020.ipynb` |
-| 65  | UKM-IDS20                      | `2020-ukm_ids20.ipynb` |
-| 66  | VOIP Enterprise - Attack       | `2020-voip_enterprise.ipynb` |
-| 67  | AWID3                          | `2021-awid3.ipynb` |
-| 68  | CyberFORCE Scenario            | `2021-cyberforce_scenario.ipynb` |
-| 69  | Edge-IIoTset                   | `2021-edge_iiotset.ipynb` |
-| 70  | I-Sec                          | `2021-i_sec.ipynb` |
-| 71  | PWNJUTSU                       | `2021-pwnjutsu.ipynb` |
-| 72  | Unraveled                      | `2021-unraveled.ipynb` |
-| 73  | USB-IDS-1                      | `2021-usb_ids1.ipynb` |
-| 74  | CIC IoT dataset 2022           | `2022-cic_iot22.ipynb` |
-| 75  | HIKARI-2021                    | `2022-hikari_2021.ipynb` |
-| 76  | LUFlow                         | `2022-luflow.ipynb` |
-| 77  | UWF-Zeek Data22                | `2022-uwf_zeekdata22.ipynb` |
-| 78  | VHS-22                         | `2022-vhs_22.ipynb` |
-| 79  | AIT Log Dataset 2.0            | `2022-ait_lds_v2.ipynb` |
-| 80  | ICS-Flow                       | `2022-ics_flow.ipynb` |
-| 81  | OD-IDS2022                     | `2022-od_ids2022.ipynb` |
-| 82  | Simargl2022                    | `2022-simargl2022.ipynb` |
-| 83  | UNR-IDD                        | `2022-unr_idd.ipynb` |
-| 84  | CICIoT2023                     | `2023-cic_iot2023.ipynb` |
-| 85  | TII-SSRC-23                    | `2023-tii_ssrc_23.ipynb` |
-| 86  | Appraise H2020                 | `2023-appraise_h2020.ipynb` |
-| 87  | FLNET2023                      | `2023-flnet2023.ipynb` |
-| 88  | ROSIDS23                       | `2023-rosids23.ipynb` |
-| 89  | Westermo                       | `2023-westermo.ipynb` |
+| 52  | IoTID20                        | [`2019-iotid20.ipynb`](2019-iotid20.ipynb) |
+| 53  | TON_IoT                        | [`2019-ton_iot.ipynb`](2019-ton_iot.ipynb) |
+| 54  | MedBIoT                        | [`2019-medbiot.ipynb`](2019-medbiot.ipynb) |
+| 55  | WUSTL-IIoT-2021                | [`2019_wustl_iiot_2021.ipynb`](2019_wustl_iiot_2021.ipynb) |
+| 56  | LITNET-2020                    | [`2020-litnet_2020.ipynb`](2020-litnet_2020.ipynb) |
+| 57  | InSDN                          | [`2020-insdn.ipynb`](2020-insdn.ipynb) |
+| 58  | X-IIoTID                       | [`2020-x_iiotid.ipynb`](2020-x_iiotid.ipynb) |
+| 59  | BOUN DDoS                      | [`2020-boun_ddos.ipynb`](2020-boun_ddos.ipynb) |
+| 60  | CCD-INID-V1                    | [`2020-ccd_inid_v1.ipynb`](2020-ccd_inid_v1.ipynb) |
+| 61  | DAPT 2020                      | [`2020-dapt2020.ipynb`](2020-dapt2020.ipynb) |
+| 62  | OPC UA                         | [`2020-opc_ua.ipynb`](2020-opc_ua.ipynb) |
+| 63  | SDN Dataset                    | [`2020-sdn_dataset.ipynb`](2020-sdn_dataset.ipynb) |
+| 64  | SR-BH 2020                     | [`2020-sr_bh2020.ipynb`](2020-sr_bh2020.ipynb) |
+| 65  | UKM-IDS20                      | [`2020-ukm_ids20.ipynb`](2020-ukm_ids20.ipynb) |
+| 66  | VOIP Enterprise - Attack       | [`2020-voip_enterprise.ipynb`](2020-voip_enterprise.ipynb) |
+| 67  | AWID3                          | [`2021-awid3.ipynb`](2021-awid3.ipynb) |
+| 68  | CyberFORCE Scenario            | [`2021-cyberforce_scenario.ipynb`](2021-cyberforce_scenario.ipynb) |
+| 69  | Edge-IIoTset                   | [`2021-edge_iiotset.ipynb`](2021-edge_iiotset.ipynb) |
+| 70  | I-Sec                          | [`2021-i_sec.ipynb`](2021-i_sec.ipynb) |
+| 71  | PWNJUTSU                       | [`2021-pwnjutsu.ipynb`](2021-pwnjutsu.ipynb) |
+| 72  | Unraveled                      | [`2021-unraveled.ipynb`](2021-unraveled.ipynb) |
+| 73  | USB-IDS-1                      | [`2021-usb_ids1.ipynb`](2021-usb_ids1.ipynb) |
+| 74  | CIC IoT dataset 2022           | [`2022-cic_iot22.ipynb`](2022-cic_iot22.ipynb) |
+| 75  | HIKARI-2021                    | [`2022-hikari_2021.ipynb`](2022-hikari_2021.ipynb) |
+| 76  | LUFlow                         | [`2022-luflow.ipynb`](2022-luflow.ipynb) |
+| 77  | UWF-Zeek Data22                | [`2022-uwf_zeekdata22.ipynb`](2022-uwf_zeekdata22.ipynb) |
+| 78  | VHS-22                         | [`2022-vhs_22.ipynb`](2022-vhs_22.ipynb) |
+| 79  | AIT Log Dataset 2.0            | [`2022-ait_lds_v2.ipynb`](2022-ait_lds_v2.ipynb) |
+| 80  | ICS-Flow                       | [`2022-ics_flow.ipynb`](2022-ics_flow.ipynb) |
+| 81  | OD-IDS2022                     | [`2022-od_ids2022.ipynb`](2022-od_ids2022.ipynb) |
+| 82  | Simargl2022                    | [`2022-simargl2022.ipynb`](2022-simargl2022.ipynb) |
+| 83  | UNR-IDD                        | [`2022-unr_idd.ipynb`](2022-unr_idd.ipynb) |
+| 84  | CICIoT2023                     | [`2023-cic_iot2023.ipynb`](2023-cic_iot2023.ipynb) |
+| 85  | TII-SSRC-23                    | [`2023-tii_ssrc_23.ipynb`](2023-tii_ssrc_23.ipynb) |
+| 86  | Appraise H2020                 | [`2023-appraise_h2020.ipynb`](2023-appraise_h2020.ipynb) |
+| 87  | FLNET2023                      | [`2023-flnet2023.ipynb`](2023-flnet2023.ipynb) |
+| 88  | ROSIDS23                       | [`2023-rosids23.ipynb`](2023-rosids23.ipynb) |
+| 89  | Westermo                       | [`2023-westermo.ipynb`](2023-westermo.ipynb) |
 
 ## Notebooks Limitations
 
@@ -112,5 +112,5 @@ In addition to notebooks corresponding to datasets discussed in the survey, we a
 
 | #   | **Dataset**                    | **Notebook filename**            |
 | --- | ------------------------------ | -------------------------------- |
-| 1   | UNK22                          | `2016-unk22.ipynb` |
-| 2   | Socbed Example Dataset         | `2021-socbed.ipynb` |
+| 1   | UNK22                          | [`2016-unk22.ipynb`](other/2016-unk22.ipynb) |
+| 2   | Socbed Example Dataset         | [`2021-socbed.ipynb`](other/2021-socbed.ipynb) |
