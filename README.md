@@ -69,18 +69,20 @@ If you use our code or mention our article, please cite us using the following f
 
 #### Plaintext (APA)
 
-P. Goldschmidt and D. Chudá, "Network Intrusion Datasets: A Survey, Limitations, and Recommendations", 2025, arXiv 2502.06688, https://arxiv.org/abs/2502.06688.
+P. Goldschmidt and D. Chudá. _Network Intrusion Datasets: A Survey, Limitations, and Recommendations_. (2025). Computers & Security. Volume 156. 104510. ISSN 0167-4048. https://doi.org/10.1016/j.cose.2025.104510
 
 #### BibTeX
 
 ```bibtex
-@misc{goldschmidt2025_nid_data_survey,
-  title={Network Intrusion Datasets: A Survey, Limitations, and Recommendations},
-  author={Patrik Goldschmidt and Daniela Chud\'a},
-  year={2025},
-  eprint={2502.06688},
-  archivePrefix={arXiv},
-  primaryClass={cs.CR},
-  url={https://arxiv.org/abs/2502.06688},
+@article{goldschmidt2025_nid_data_survey,
+  title = {Network intrusion datasets: A survey, limitations, and recommendations},
+  author = {Patrik Goldschmidt and Daniela Chud\'a},
+  journal = {Computers \& Security},
+  volume = {156},
+  pages = {104510},
+  year = {2025},
+  issn = {0167-4048},
+  doi = {10.1016/j.cose.2025.104510},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167404825001993}
 }
 ```
