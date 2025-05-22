@@ -1,19 +1,25 @@
 # Network Intrusion Datasets Survey
 
-This is an official repository of the "_Network Intrusion Datasets: A Survey, Limitations, and Recommendations_" paper submitted to [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security) in February 2025. This repository provides Jupyter notebooks and supportive scripts to promote Open Science and facilitate the analysis of other datasets or provide a quick reference of the datasets' structures.
+This is an official repository of the "_Network Intrusion Datasets: A Survey, Limitations, and Recommendations_" paper published at [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security) in September 2025. This repository provides Jupyter notebooks and auxilliary scripts to promote Open Science, facilitate the analysis of other datasets or provide a quick reference of the datasets' structures.
 
 **Authors:**
 
 - Patrik Goldschmidt (<igoldschmidt@fit.vut.cz> / <patrik.goldschmidt@kinit.sk>)
 - Daniela Chudá (<daniela.chuda@kinit.sk>)
 
-**Link to the paper (preprint):**
+**Paper (published version):**
+
+- [https://www.sciencedirect.com/science/article/pii/S0167404825001993](https://www.sciencedirect.com/science/article/pii/S0167404825001993)
+
+**Paper (accepted version preprint):**
 
 - [https://arxiv.org/abs/2502.06688](https://arxiv.org/abs/2502.06688)
 
+If you prefer numerical citations instead of the parenthetical style used in the accepted and camera-ready versions, please refer to the second version of our preprint [https://arxiv.org/abs/2502.06688v2](https://arxiv.org/abs/2502.06688v2). Its contents are nearly identical to the final version, with only minor rewording of a few paragraphs to accommodate the line width required by the new (longer) citation format.
+
 ## Abstract
 
-Data-driven cyberthreat detection has become a crucial defense technique in modern cybersecurity. Network defense, supported by Network Intrusion Detection Systems (NIDSs), has also increasingly adopted data-driven approaches, leading to greater reliance on data. Despite its importance, data scarcity has long been recognized as a major obstacle in NIDS research. In response, the community has published many new datasets recently. However, many of them remain largely unknown and unanalyzed, leaving researchers uncertain about their suitability for specific use cases.
+Data-driven cyberthreat detection has become a crucial defense technique in modern cybersecurity. Network defense, supported by Network Intrusion Detection Systems (NIDSs), has also increasingly adopted data-driven approaches, leading to greater reliance on data. Despite the importance of data, its scarcity has long been recognized as a major obstacle in NIDS research. In response, the community has published many new datasets recently. However, many of them remain largely unknown and unanalyzed, leaving researchers uncertain about their suitability for specific use cases.
 
 In this paper, we aim to address this knowledge gap by performing a systematic literature review (SLR) of 89 public datasets for NIDS research. Each dataset is comparatively analyzed across 13 key properties, and its potential applications are outlined. Beyond the review, we also discuss domain-specific challenges and common data limitations to facilitate a critical view on data quality. To aid in data selection, we conduct a dataset popularity analysis in contemporary state-of-the-art NIDS research. Furthermore, the paper presents best practices for dataset selection, generation, and usage. By providing a comprehensive overview of the domain and its data, this work aims to guide future research toward improving data quality and the robustness of NIDS solutions.
 
@@ -69,7 +75,7 @@ If you use our code or mention our article, please cite us using the following f
 
 #### Plaintext (APA)
 
-P. Goldschmidt and D. Chudá. _Network Intrusion Datasets: A Survey, Limitations, and Recommendations_. (2025). Computers & Security. Volume 156. 104510. ISSN 0167-4048. https://doi.org/10.1016/j.cose.2025.104510
+P. Goldschmidt and D. Chudá. _Network Intrusion Datasets: A Survey, Limitations, and Recommendations_. (2025). Computers & Security. Volume 156. 104510. ISSN 0167-4048. [https://doi.org/10.1016/j.cose.2025.104510](https://doi.org/10.1016/j.cose.2025.104510)
 
 #### BibTeX
 
