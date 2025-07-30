@@ -48,6 +48,7 @@ In this paper, we aim to address this knowledge gap by performing a systematic l
 ├── trends_analysis/        # XLSX (Excel) files with analysis of NIDS trends
 │   ├── popularity.xlsx     # Data popularity on SOTA NIDS papers
 │   └── trends.xlsx         # List of datasets and their trends analysis
+├── additional_datasets.md  # List of additional datasets discovered after 2023
 ├── excluded_datasets.md    # List of excluded datasets from the survey
 ├── LICENSE                 # License file
 └── README.md               # This file
@@ -57,6 +58,10 @@ In this paper, we aim to address this knowledge gap by performing a systematic l
 
 As mentioned in our paper, we focused purely on publicly available datasets suitable for Network Intrusion Detection (NID) research and development. All datasets not available at the time of writing the paper (2024), along with datasets designed for other IDS types (e.g., host-based IDS, Industry Control Systems IDS) without network features, were excluded from the paper. However, we understand that other datasets, or even unavailable ones, might interest others with different goals. Therefore, we list all the excluded datasets (without their detailed analysis) along with the reason for their exclusion in the `excluded_datasets.md` file.
 
+## Additional Datasets
+
+Although our published survey is a static paper, our research on NID data continues. While the survey (and the accompanying `excluded_datasets.md`) includes datasets published up to 2023 (included), we also maintain a separate list `additional_datasets.md`, including datasets published after the scope of the study (2024+) discovered during continued research. However, note that these entries are not thoroughly analyzed, so an associated notebook in the `ntbks_analysis/other/` might thus not be available. Furthermore, this list was compiled in a non-systematic manner, so it should not be considered a comprehensive, up-to-date resource of all NID datasets. It rather serves as a supplementary resource for readers interested in further independent exploration. Also, feel free to contribute to this list via a pull request.
+
 ## Miscellaneous
 
 ### Similar Projects
@@ -64,6 +69,8 @@ As mentioned in our paper, we focused purely on publicly available datasets suit
 Although several papers focused on NIDS datasets have been released (more in our paper), we would like to endorse the [COMIDDS project](https://fkie-cad.github.io/COMIDDS/). This project is similar to our work, as its authors aim to review Intrusion Detection Datasets (both host and network) and continually update the database with new datasets. The project is beneficial for folks searching for a suitable dataset, as the properties of each dataset are summarized within a table along with its brief description and a snippet of the original data format. All datasets are further listed in a comparison table. Although its scope is, for now, smaller than our study, continual updates of the project have the potential to provide a more comprehensive view of the IDS datasets within a short time.
 
 Initially, our project was inspired by [Ring et al.'s 2019 paper](https://www.sciencedirect.com/science/article/pii/S016740481930118X), which comparatively studied various NIDS datasets available until 2018. Nevertheless, many new datasets have been released since, and newer works (e.g., [Yang et al. 2022 paper](https://www.sciencedirect.com/science/article/pii/S0167404822000736)) did not cover them in sufficient detail, so we decided to perform a systematic study on all publicly available datasets until 2023 on our own.
+
+A recent survey by [Pinto et al.](https://www.sciencedirect.com/science/article/pii/S1389128625001458), published a few months prior to our study, also reviews datasets for intrusion detection. Despite some overlap with our study--particularly, in their Section IV discussing the evolution and classification of NID datasets--the two studies are largely complementary. Our work places a strong emphasis on data quality, with detailed discussions of specific dataset properties, common issues, and the best practices for data handling. In contrast, Pinto et al. focus on tools for data collection and traffic analysis, an area only briefly mentioned but left largely unaddressed in our study. For this reason, we believe readers would benefit from both contributions.
 
 ### Licence
 

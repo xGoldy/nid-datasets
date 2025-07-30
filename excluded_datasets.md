@@ -68,6 +68,7 @@ Although datasets produced as a side-effect (typically for research validation) 
 | **Dataset**    | **Year** | **Paper** | **Data** | **Format** | **Labels** | **Description / Commentary** |
 | ------------------- | -------- | --------- | -------- | ---------- | ---------- | -------------- |
 | UNK22 | 1998, 2015, 2016 | [Paper](https://ieeexplore.ieee.org/abstract/document/9787094) | [Data](https://github.com/ucadatalab/ff4ml/tree/master/data/unk22) | flows | yes | Heavily preprocessed via Feature as a Counter (FaaC) technique. |
+| USTC-TFC2016  | 2016 | - | [Data](https://github.com/davidyslu/USTC-TFC2016) | pcap | yes | Captures of various applications and malware. |
 | Kitsune | 2017, 2018 | [Paper](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf) | [Data](https://archive.ics.uci.edu/dataset/516/kitsune+network+attack+dataset) | packet (bin, txt) | yes | Popular IoT dataset with custom packet features. |
 | Ishibashi et al. 2022 | 2018 | [Paper](https://ieeexplore.ieee.org/abstract/document/9777676) | [Data](https://github.com/suuri-kyudai/Generating-Dataset-for-NIDS) | packet | yes | Focused on replaying and labeling the data based on NIDS alerts. |
 | MUD Profiles Dataset | 2018 | [Paper](https://dl.acm.org/doi/abs/10.1145/3314148.3314352) | [Data](https://iotanalytics.unsw.edu.au/index.html#our-data) | logs | no | Profiles for Manufacturer Usage Description (MUD) framework. |
